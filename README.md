@@ -31,6 +31,7 @@ Some people in the community were raising the issue that publishing the samples 
 ### Learn more:
 
 * Report by Dragos:
+
   https://dragos.com/blog/trisis/TRISIS-01.pdf
 
 * Report by Mandiant (FireEye):
