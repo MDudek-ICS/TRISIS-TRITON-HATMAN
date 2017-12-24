@@ -2,7 +2,7 @@
 
 ### Description
 
-This repository contains original samples and decompiled sources of malware attacking Triconex Safety Instrumented System (SIS) controllers, commonly used in Industrial Control Systems (ICS).
+This repository contains original samples and decompiled sources of malware attacking commonly used in Industrial Control Systems (ICS) *Triconex* Safety Instrumented System (SIS) controllers. For more information scroll to "*Learn More*".
 
 Each organization describing this malware in reports used a different name (TRISIS/TRITON/HatMan). For that reason, there is no one, common name for it.
 
