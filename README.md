@@ -54,5 +54,9 @@ Some people in the community were raising the issue that publishing the samples 
   https://vimeo.com/248057640
 
 
-
 **Any updates to the repository are warmly welcome**
+
+Contact: 
+
+* @dudekmar
+* contact(at)marcindudek.com
