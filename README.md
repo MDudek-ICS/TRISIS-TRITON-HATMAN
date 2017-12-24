@@ -17,21 +17,19 @@ Each organization describing this malware in reports used a different name (TRIS
 
 All archives are secured with password: *infected*
 
-Folder *decompiled_code* contains decompiled python files, originating from files described above:
+Folder *decompiled_code* contains decompiled python files, originating from *trilog.exe* file and *library.zip* archive described above:
 
 | Origin      | Result                  | Method                |
 | ----------- | ----------------------- | --------------------- |
 | trilog.exe  | script_test.py          | unpy2exe + uncompyle6 |
 | library.zip | Files in folder library | uncompyle6            |
 
-Folder *yara_rules* contains yara rues detecting this malware that I am aware of. 
+Folder *yara_rules* contains yara rules (that I am aware of) detecting this malware:
 
 | File          | Author                    |
 | ------------- | ------------------------- |
 | mandiant.yara | @itsreallynick (Mandiant) |
 | ics-cert.yara | DHS/NCCIC/ICS-CERT        |
-
-
 
 ### Why Publishing? Isn't it dangerous?
 
