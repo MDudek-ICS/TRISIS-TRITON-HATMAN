@@ -56,7 +56,9 @@ Some people in the community were raising the issue that publishing the samples 
 
 **Any updates to the repository are warmly welcome**
 
+Currently looking for the missing *inject.bin (0544d425c7555dc4e9d76b571f31f500)* file
+
 Contact: 
 
-* @dudekmar
+* [@dudekmar](https://twitter.com/dudekmar)
 * contact(at)marcindudek.com

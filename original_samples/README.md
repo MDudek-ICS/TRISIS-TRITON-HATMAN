@@ -7,3 +7,11 @@
 
 All archives are secured with password: *infected*
 
+**Any updates to the repository are warmly welcome**
+
+Currently looking for the missing *inject.bin (0544d425c7555dc4e9d76b571f31f500)* file
+
+Contact: 
+
+- [@dudekmar](https://twitter.com/dudekmar)
+- contact(at)marcindudek.com
