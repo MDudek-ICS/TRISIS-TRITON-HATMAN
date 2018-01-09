@@ -55,7 +55,7 @@ Some people in the community were raising the issue that publishing the samples 
   
 * Analysis by Craftsman Safety Lab (Chinese)
 
-http://icsmaster.com/security/Triton_src_analysis.html
+  http://icsmaster.com/security/Triton_src_analysis.html
 
 
 **Any updates to the repository are warmly welcome**
