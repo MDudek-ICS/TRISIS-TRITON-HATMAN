@@ -52,6 +52,10 @@ Some people in the community were raising the issue that publishing the samples 
 * Webinar by Dragos:
 
   https://vimeo.com/248057640
+  
+* Analysis by Craftsman Safety Lab (Chinese)
+
+http://icsmaster.com/security/Triton_src_analysis.html
 
 
 **Any updates to the repository are warmly welcome**
