@@ -44,15 +44,17 @@ Some people in the community were raising the issue that publishing the samples 
 * [Analysis by Craftsman Safety Lab (in Chinese)](http://icsmaster.com/security/Triton_src_analysis.html)
 * [Analysis by Midnight Blue](https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware)
 
-#### Pre Incident Publications:
-* [POC attack on Tricon (published a year ahead)](http://ieeexplore.ieee.org/document/7920614/)
-
 #### News Publications:
 * [Assumption that Aramco was a target](http://foreignpolicy.com/2017/12/21/cyber-attack-targets-safety-system-at-saudi-aramco/)
 * [Description of analysis and information sharing process](https://www.cyberscoop.com/trisis-ics-malware-saudi-arabia/)
 * [How it was leaked to the Internet](https://www.cyberscoop.com/trisis-virus-total-schneider-electric/)
 * [0-day usage](https://www.cyberscoop.com/schneider-electric-trisis-zero-day-rat/)
 
+
+#### Others:
+* [Academic POC attack on Tricon (published a year ahead)](http://ieeexplore.ieee.org/document/7920614/)
+* [Defense recommendations](http://titaniumaics.blogspot.com.es/2018/)
+* [Files compilation times](https://twitter.com/ItsReallyNick/status/944399647442956288)
 
 **Any updates to the repository are warmly welcome**
 
