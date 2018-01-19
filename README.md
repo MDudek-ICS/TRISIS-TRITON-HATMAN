@@ -35,27 +35,23 @@ Folder *yara_rules* contains yara rules (that I am aware of) detecting this malw
 
 Some people in the community were raising the issue that publishing the samples and decompiled sources might be dangerous. I agreed until these were not public. I have found the included files in at least two publicly available sources, that means anyone can download it if know where to search. What is more, I believe that organizations/people who could be able to reuse it and have the capability to deploy it in a real attack have already accessed it long time ago. This repository makes it more accessible for community and academia who might work on improving defense solutions and saves some time on looking for decompilers.
 
-### Learn more:
+### Learn more
+#### Technical Analysis:
+* [Report by Dragos](https://dragos.com/blog/trisis/TRISIS-01.pdf)
+* [Report by Mandiant (FireEye)](https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html)
+* [Report by ICS-CERT (NCCIC)](https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%E2%80%94Safety%20System%20Targeted%20Malware_S508C.pdf)
+* [Webinar by Dragos](https://vimeo.com/248057640)
+* [Analysis by Craftsman Safety Lab (in Chinese)](http://icsmaster.com/security/Triton_src_analysis.html)
+* [Analysis by Midnight Blue](https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware)
 
-* Report by Dragos:
+#### Pre Incident Publications:
+* [POC attack on Tricon (published a year ahead)](http://ieeexplore.ieee.org/document/7920614/)
 
-  https://dragos.com/blog/trisis/TRISIS-01.pdf
-
-* Report by Mandiant (FireEye):
-
-  https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html
-
-* Report by ICS-CERT (NCCIC):
-
-  https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%E2%80%94Safety%20System%20Targeted%20Malware_S508C.pdf
-
-* Webinar by Dragos:
-
-  https://vimeo.com/248057640
-  
-* Analysis by Craftsman Safety Lab (Chinese)
-
-  http://icsmaster.com/security/Triton_src_analysis.html
+#### News Publications:
+* [Assumption that Aramco was a target](http://foreignpolicy.com/2017/12/21/cyber-attack-targets-safety-system-at-saudi-aramco/)
+* [Description of analysis and information sharing process](https://www.cyberscoop.com/trisis-ics-malware-saudi-arabia/)
+* [How it was leaked to the Internet](https://www.cyberscoop.com/trisis-virus-total-schneider-electric/)
+* [0-day usage](https://www.cyberscoop.com/schneider-electric-trisis-zero-day-rat/)
 
 
 **Any updates to the repository are warmly welcome**
