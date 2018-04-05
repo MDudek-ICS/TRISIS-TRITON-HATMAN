@@ -43,7 +43,10 @@ Some people in the community were raising the issue that publishing the samples 
 * [Webinar by Dragos (video)](https://vimeo.com/248057640)
 * [Analysis by Craftsman Safety Lab (in Chinese)](http://icsmaster.com/security/Triton_src_analysis.html)
 * [Analysis by Midnight Blue](https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware)
-* [Schneider Electric analysis on S4x18 (video)](https://www.youtube.com/watch?v=f09E75bWvkk&feature=youtu.be)
+* [Schneider Electric analysis on S4x18 (video)](https://www.youtube.com/watch?v=f09E75bWvkk)
+* [Mandiant analysis on S4x18 (video)](https://www.youtube.com/watch?v=nAU8X03Eg9c)
+* [Dragos analysis on S4x18 (video)](https://www.youtube.com/watch?v=m51JrxdvEV8)
+* [Accenture analysis](https://www.accenture.com/t20180123T095554Z__w__/us-en/_acnmedia/PDF-46/Accenture-Security-Triton-Trisis-Threat-Analysis.pdf)
 
 #### News Publications:
 * [Assumption that Aramco was a target](http://foreignpolicy.com/2017/12/21/cyber-attack-targets-safety-system-at-saudi-aramco/)
