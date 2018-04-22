@@ -31,6 +31,8 @@ Folder *yara_rules* contains yara rules (that I am aware of) detecting this malw
 | mandiant.yara | @itsreallynick (Mandiant) |
 | ics-cert.yara | DHS/NCCIC/ICS-CERT        |
 
+Folder *symbolic_execution* contains script for running imain.bin with ANGR symbolic execution engine – credits to [@bl4ckic3](https://twitter.com/bl4ckic3)
+
 ### Why Publishing? Isn't it dangerous?
 
 Some people in the community were raising the issue that publishing the samples and decompiled sources might be dangerous. I agreed until these were not public. I have found the included files in at least two publicly available sources, that means anyone can download it if know where to search. What is more, I believe that organizations/people who could be able to reuse it and have the capability to deploy it in a real attack have already accessed it long time ago. This repository makes it more accessible for community and academia who might work on improving defense solutions and saves some time on looking for decompilers.
