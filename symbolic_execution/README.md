@@ -10,6 +10,9 @@ All credits to [@bl4ckic3](https://twitter.com/bl4ckic3)
 * *imain.py* - python script that runs imain.bin in ANGR
 * *TritonCFG.dot* - Control-Flow Graph (obtained as a result of running the imain.py script)
 
+## Requirements
+<TODO>
+
 ## Manual
 * Before running script unpack imain.7z in *original_samples* folder
 * In case you need Control-Flow Graph you also need to change the graph output path in the *imain.py* file.
