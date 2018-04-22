@@ -11,7 +11,7 @@ All credits to [@bl4ckic3](https://twitter.com/bl4ckic3)
 * *TritonCFG.dot* - Control-Flow Graph (obtained as a result of running the imain.py script)
 
 ## Requirements
-<TODO>
+TODO
 
 ## Manual
 * Before running script unpack imain.7z in *original_samples* folder
