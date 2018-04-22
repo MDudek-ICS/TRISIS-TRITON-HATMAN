@@ -17,5 +17,5 @@ TODO
 * Before running script unpack imain.7z in *original_samples* folder
 * In case you need Control-Flow Graph you also need to change the graph output path in the *imain.py* file.
 
-## Futher development
+## Further development
 I will eventually link some I/O interfaces to the machine running ANGR and use the Triton to do various manipulation for demonstration of its capabilities. 
