@@ -26,8 +26,8 @@ print ''
 print ''
 print('\x1b[6;30;42m' + '..:: TRITON Symbolic by Ali Abbasi ::..' + '\x1b[0m')
 
-
-proj = angr.Project("../bin/imain.bin", load_options={
+# unpack imain.7z in original_samples folder first
+proj = angr.Project("../original_samples/imain.bin", load_options={
     'main_opts':{
         'backend': 'blob',
         'custom_arch': archinfo.arch_ppc32.ArchPPC32(endness="Iend_BE"),
@@ -58,9 +58,6 @@ rr = r.found[0]
 constraint = list(rr.actions)[-1]
 ast = constraint.all_objects[0].ast
 
-
-
-
 # crate graph out of mem_199400 constraint
 def not_concrete(obj):
     return a != None and not isinstance(a, (int, long, str)) and not a.concrete
@@ -89,6 +86,6 @@ while worker:
             g.add_node(nid, label="...")
         nid+=1
         g.add_edge(p_nid, c_nid)
-#writing Triton Control-Flow Graph to a dot file
+#writing Triton Control-Flow Graph to a dot file, change as needed
 write_dot(g, "/Users/ali/Triton-Symbolic/TritonCFG.dot")
 
