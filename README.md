@@ -50,7 +50,7 @@ Some people in the community were raising the issue that publishing the samples 
 * [Mandiant analysis on S4x18 (video)](https://www.youtube.com/watch?v=nAU8X03Eg9c)
 * [Dragos analysis on S4x18 (video)](https://www.youtube.com/watch?v=m51JrxdvEV8)
 * [Accenture analysis](https://www.accenture.com/t20180123T095554Z__w__/us-en/_acnmedia/PDF-46/Accenture-Security-Triton-Trisis-Threat-Analysis.pdf)
-* [Description of a group behind Triton - "Xenotime"](https://dragos.com/blog/20180524Xenotime.html) 
+* [Description of a group behind - "Xenotime"](https://dragos.com/blog/20180524Xenotime.html) 
 * [Similarities between Triton code and TriStation dlls](https://www.fireeye.com/blog/threat-research/2018/06/totally-tubular-treatise-on-triton-and-tristation.html)
 
 #### News Publications:
