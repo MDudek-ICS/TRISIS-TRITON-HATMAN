@@ -4,7 +4,7 @@ Script for running imain.bin with ANGR symbolic execution engine
 
 All credits to [@bl4ckic3](https://twitter.com/bl4ckic3)
 
-![Triton in ANGR](./angr.png).
+![Triton in ANGR](./resources/angr.png).
 
 ## Files Description
 * *imain.py* - python script that runs imain.bin in ANGR
