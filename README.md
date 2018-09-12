@@ -42,7 +42,7 @@ Some people in the community were raising the issue that publishing the samples 
 * [Report by Dragos](https://dragos.com/blog/trisis/TRISIS-01.pdf)
 * [Report by Mandiant (FireEye)](https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html)
 * [Report by ICS-CERT (NCCIC)](https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%E2%80%94Safety%20System%20Targeted%20Malware_S508C.pdf)
-* [Report by ICS-CERT (NCCIC) Update A](https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%20-%20Safety%20System%20Targeted%20Malware%20%28Update%20A%29_S508C.pdf)
+* [Report by ICS-CERT (NCCIC) Update A](https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%20-%20Safety%20System%20Targeted%20Malware%20%28Update%20A%29_S508C.PDF)
 * [Webinar by Dragos (video)](https://vimeo.com/248057640)
 * [Analysis by Craftsman Safety Lab (in Chinese)](http://icsmaster.com/security/Triton_src_analysis.html)
 * [Analysis by Midnight Blue](https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware)
