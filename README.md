@@ -44,7 +44,7 @@ Some people in the community were raising the issue that publishing the samples 
 * [Report by ICS-CERT (NCCIC)](https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%E2%80%94Safety%20System%20Targeted%20Malware_S508C.pdf)
 * [Report by ICS-CERT (NCCIC) Update A](https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%20-%20Safety%20System%20Targeted%20Malware%20%28Update%20A%29_S508C.PDF)
 * [Webinar by Dragos (video)](https://vimeo.com/248057640)
-* [Analysis by Craftsman Safety Lab (in Chinese)](http://icsmaster.com/security/Triton_src_analysis.html)
+* [Analysis by Craftsman Safety Lab (in Chinese)](http://www.icsmaster.org/archives/ics/653)
 * [Analysis by Midnight Blue](https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware)
 * [Schneider Electric analysis on S4x18 (video)](https://www.youtube.com/watch?v=f09E75bWvkk)
 * [Mandiant analysis on S4x18 (video)](https://www.youtube.com/watch?v=nAU8X03Eg9c)
