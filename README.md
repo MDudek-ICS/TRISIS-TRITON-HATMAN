@@ -50,11 +50,14 @@ Some people in the community were raising the issue that publishing the samples 
 * [Mandiant analysis on S4x18 (video)](https://www.youtube.com/watch?v=nAU8X03Eg9c)
 * [Dragos analysis on S4x18 (video)](https://www.youtube.com/watch?v=m51JrxdvEV8)
 * [Accenture analysis](https://www.accenture.com/t20180123T095554Z__w__/us-en/_acnmedia/PDF-46/Accenture-Security-Triton-Trisis-Threat-Analysis.pdf)
+* [FireEye analysis o similarities between Triton code and TriStation dlls](https://www.fireeye.com/blog/threat-research/2018/06/totally-tubular-treatise-on-triton-and-tristation.html)
 * [Dragos presentation from Recon](https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/044/original/RECON-MTL-2018-DRAGOS_TRISIS_RECON2018.pdf)
 * [Marina Krotofil and Jos Wetzels presentation from Defcon](https://www.slideshare.net/MarinaKrotofil/defcon-through-theeyesoftheattacker2018slides-111161382)
 * [<- +Marina's reponse regarding plagiarism clamis and nice Triton publications timeline](https://medium.com/@audi_alteram_partem/regarding-the-unfounded-claims-of-plagiarism-leveled-against-the-def-con-talk-through-the-eyes-of-8510dcf85d67)
+
+
+#### Attribution
 * [Description of a group behind - "Xenotime"](https://dragos.com/blog/20180524Xenotime.html) 
-* [Similarities between Triton code and TriStation dlls](https://www.fireeye.com/blog/threat-research/2018/06/totally-tubular-treatise-on-triton-and-tristation.html)
 * [Triton attribution by FireEye](https://www.fireeye.com/blog/threat-research/2018/10/triton-attribution-russian-government-owned-lab-most-likely-built-tools.html)
 
 
