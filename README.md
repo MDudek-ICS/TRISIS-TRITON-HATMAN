@@ -72,6 +72,11 @@ Some people in the community were raising the issue that publishing the samples 
 * [Defense recommendations](http://titaniumaics.blogspot.com.es/2018/)
 * [Files compilation times](https://twitter.com/ItsReallyNick/status/944399647442956288)
 
+#### Detection:
+* [Tricotools](https://github.com/NozomiNetworks/tricotools) - A collection of utilities and tools related to the Triconex: TriStation Wireshark dissector and Triconex Honeypot
+* [Tristation LUA dissector](https://github.com/stvemillertime/TriStation/blob/master/tristation.lua)
+* [Triton SNORT rules](https://www.bsi.bund.de/DE/Themen/Industrie_KRITIS/ICS/Tools/RAPSN_SETS/RAPSN_SETS_node.html) by BSI 
+
 **Any updates to the repository are warmly welcome**
 
 Currently looking for the missing *inject.bin (0544d425c7555dc4e9d76b571f31f500)* file
