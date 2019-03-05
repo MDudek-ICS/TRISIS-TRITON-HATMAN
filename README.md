@@ -72,6 +72,7 @@ Some people in the community were raising the issue that publishing the samples 
 * [Academic POC attack on Tricon (published a year ahead)](http://ieeexplore.ieee.org/document/7920614/)
 * [Defense recommendations](http://titaniumaics.blogspot.com.es/2018/)
 * [Files compilation times](https://twitter.com/ItsReallyNick/status/944399647442956288)
+* [ABB security notification](https://library.e.abb.com/public/f4de78ee1ee141d3bdbab669cd3d627a/9AKK107045A7931%20Cyber%20Security%20Notification%20TRITON%20generic.pdf)
 
 #### Detection:
 * [Tricotools](https://github.com/NozomiNetworks/tricotools) - A collection of utilities and tools related to the Triconex: TriStation Wireshark dissector and Triconex Honeypot
