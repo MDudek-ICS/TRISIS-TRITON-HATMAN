@@ -30,7 +30,7 @@ Folder *yara_rules* contains yara rules (that I am aware of) detecting this malw
 | ------------- | ------------------------- |
 | mandiant.yara | @itsreallynick (Mandiant) |
 | ics-cert.yara | DHS/NCCIC/ICS-CERT        |
-| ics-cert-v2.yara | DHS/NCCIC/ICS-CERT (from update B report)|
+| ics-cert-v2.yara | DHS/NCCIC/ICS-CERT ([from update B report](https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%20-%20Safety%20System%20Targeted%20Malware%20%28Update%20B%29.pdf))|
 
 Folder *symbolic_execution* contains script for running imain.bin with ANGR symbolic execution engine – credits to [@bl4ckic3](https://twitter.com/bl4ckic3)
 
