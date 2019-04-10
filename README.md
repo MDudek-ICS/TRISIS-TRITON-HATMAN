@@ -57,6 +57,7 @@ Some people in the community were raising the issue that publishing the samples 
 * [Marina Krotofil and Jos Wetzels presentation from Defcon](https://www.slideshare.net/MarinaKrotofil/defcon-through-theeyesoftheattacker2018slides-111161382)
 * [<- +Marina's reponse regarding plagiarism clamis and nice Triton publications timeline](https://medium.com/@audi_alteram_partem/regarding-the-unfounded-claims-of-plagiarism-leveled-against-the-def-con-talk-through-the-eyes-of-8510dcf85d67)
 * [Xenotime TTP by Dragos](https://www.slideshare.net/DragosInc/hunting-for-xenotime-and-the-next-big-thing)
+* [Triton actor TTP by FireEye](https://www.fireeye.com/blog/threat-research/2019/04/triton-actor-ttp-profile-custom-attack-tools-detections.html)
 
 
 #### Attribution
